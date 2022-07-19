@@ -9,4 +9,4 @@ else
 sumOfOdd=SumOfOdd+arr[i];
 }
 System.out.println("sumOfEven numbers are"+sumOfEven);
-System.out.println("sumOfodd numbers are :"+sumOfOdd);
+
